@@ -1,1 +1,1 @@
-# monday-app
+# react-practice
